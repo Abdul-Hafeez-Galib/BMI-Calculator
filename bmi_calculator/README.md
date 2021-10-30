@@ -1,16 +1,20 @@
-# bmi_calculator
+# BMI Calculator
 
-A new Flutter project.
+Are you healthy?
+Let's check your BMI.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## BMI Scale
 
-A few resources to get you started if this is your first Flutter project:
+* Underweight: BMI is less than 18.5
+* Normal weight: BMI is 18.5 to 24.9
+* Overweight: BMI is 25 to 29.9
+* Obese: BMI is 30 or more
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## App UI
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2021-10-30 at 10 54 52 PM](https://user-images.githubusercontent.com/77202232/139543017-602e4310-0797-4737-826e-0179b6ddf97a.jpeg)
+
+![WhatsApp Image 2021-10-30 at 10 54 52 PM (1)](https://user-images.githubusercontent.com/77202232/139543059-8e6a2cc1-19c9-4c46-9259-785c52db2859.jpeg)
+
+
